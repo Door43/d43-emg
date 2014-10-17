@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[emg:home|Door43 (emg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-emg|d43-emg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-emg/archive/master.zip|d43-emg.zip]]
+
+**Recent Changes**
+{{changes>ns = emg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/emg|Ethnologue data]]
+
